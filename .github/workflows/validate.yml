@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+      - qa/validate-77d47c7
   workflow_dispatch:
 
 permissions:
@@ -16,6 +17,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          ref: 77d47c70daa96e51fd4b550b405787bbb3cba038
 
       - name: Set up Python
         uses: actions/setup-python@v5
