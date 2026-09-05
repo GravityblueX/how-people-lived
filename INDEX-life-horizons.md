@@ -14,6 +14,7 @@ This index collects entries about what people thought a life should become.
 - [Education re-entry, adult continuing learning and recursive life courses](topics/education-reentry-adult-continuing-learning-and-recursive-life-courses-china-1979-2026.zh-CN.md) — how broadcast/TV university, self-study exams, Web learning platforms, continuing education and youth night schools let education recur after work rather than remain a one-time youth stage
 - [From paper credentials to searchable proof](topics/from-paper-credential-to-searchable-proof-education-verification-and-credential-stacking-china-1993-2026.zh-CN.md)
 - [Parents and children's futures](topics/parents-and-childrens-futures.md)
+- [From “when to have children” to “whether to have them”: parenthood optionality and reproductive-intention states](topics/from-when-to-have-children-to-whether-to-have-them-parenthood-optionality-childlessness-and-reproductive-intention-china-1997-2026.zh-CN.md) — distinguishes voluntary childfree lives, conditional delay, uncertainty and unrealized parenthood, and asks when romance, marriage and parenthood became separately negotiable life-course projects
 - [When did housing become an adulthood project?](topics/when-did-housing-become-an-adulthood-project.md)
 - [From rental listings to stranger households: renting, roommates and household assembly](topics/from-rental-listings-to-stranger-households-renting-roommates-and-household-assembly-china-1980-2026.zh-CN.md)
 - [Living alone and solo-household executability](topics/living-alone-one-person-households-solo-household-executability-and-service-rebundling-china-1977-2026.zh-CN.md) — how unit dorm/canteen bundling, private household fixed costs, service outsourcing, emergency fallback and chosen non-kin co-living changed whether one resident could keep a household running
@@ -90,6 +91,7 @@ The same cohort can carry several different life horizons across one lifetime. U
 - before / after adulthood becomes later without necessarily becoming less ordered
 - before / after preserving future options becomes a rational goal in itself
 - before / after digital interfaces can be independently completed through assistive technology rather than a human proxy
+- before / after romance, marriage and parenthood can be planned as related but separately negotiable life-course projects
 
 The purpose is not to reduce a life to an event. It is to ask when an event changes the practical menu of adulthood.
 
@@ -134,10 +136,11 @@ Ask:
 - If a standard sequence broke, did the person have an institutional or economic route back into work, school, housing or family formation?
 - Could subjective dislike, lack of meaning or work-life conflict become sufficient reason to redesign a career?
 - Did an online opportunity remain merely visible, or could this person independently execute its interface, authentication and final transaction?
+- Was becoming a parent still assumed to follow partnership or marriage, or had parenthood become a separately considered, delayed, declined or repeatedly renegotiated life project?
 
 ## The core comparison
 
-The repository now has eleven linked historical questions:
+The repository now has twelve linked historical questions:
 
 > **What could this person materially do?**
 
@@ -161,4 +164,6 @@ The repository now has eleven linked historical questions:
 
 > **If only one person lived in the dwelling, could the household remain operational without a mandatory co-resident, and what external service or support stack made that possible?**
 
-All eleven are needed to reconstruct an ordinary life.
+> **If partnership or marriage existed, was parenthood still treated as its default next state, or could becoming a parent be separately delayed, declined, reconsidered or remain unrealized for reasons that must not be collapsed into one label?**
+
+All twelve are needed to reconstruct an ordinary life.
