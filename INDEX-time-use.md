@@ -17,6 +17,7 @@ The central question is:
 - [Leisure, boredom and the disappearance of clean offline time](topics/leisure-boredom-and-the-disappearance-of-offline-time.md)
 - [Shopping, errands and outsourced logistics](topics/shopping-errands-and-outsourced-logistics.md)
 - [From scheduled information to ambient information](topics/from-scheduled-to-ambient-information.md)
+- [Opening hours, temporal executability and asynchronous life administration, China 1987–2026](topics/opening-hours-temporal-executability-and-asynchronous-life-administration-china-1987-2026.zh-CN.md)
 
 ## Source and data guides
 
@@ -141,6 +142,16 @@ See:
 
 - [Leisure, boredom and the disappearance of clean offline time](topics/leisure-boredom-and-the-disappearance-of-offline-time.md)
 
+## A new historical problem: the institution's clock
+
+A service may exist and a person may be eligible for it while the route is still practically unavailable because the office, bank, school or registration system is open only when that person is at work, in class or doing care work.
+
+ATMs, mailboxes, web forms, self-service terminals and online queues can change this in different ways. Some save time; some merely **move the same clerical labor to another hour**. A form that can be filled at midnight but waits until 09:00 for review is still historically important: it separates the user's clock from the institution's clock without making the whole process instantaneous.
+
+See:
+
+- [Opening hours, temporal executability and asynchronous life administration, China 1987–2026](topics/opening-hours-temporal-executability-and-asynchronous-life-administration-china-1987-2026.zh-CN.md)
+
 ## Questions for cohort history
 
 ### Childhood
@@ -154,17 +165,20 @@ See:
 - How much time is paid work versus commuting?
 - Does postgraduate study postpone paid-work time?
 - Does living with parents reduce household labor or increase family obligations?
+- Can applications, exams, banking and public-service tasks be completed outside work/class hours?
 
 ### Parenthood
 
 - How much time shifts from domestic maintenance to child cultivation?
 - Who does the unpaid work?
 - Does grandparent care substitute for parental time?
+- Do school, ID, housing and other family-facing institutional hours conflict with parental work schedules?
 
 ### Midlife
 
 - How much time goes upward to aging parents and downward to children?
 - How much discretionary time remains after work, commuting and care?
+- How many essential administrative tasks still require daytime leave?
 
 ### Old age
 
@@ -177,15 +191,22 @@ See:
 - Does AI reduce task time or raise expected output volume?
 - Does faster drafting create leisure, or simply more drafts and faster deadlines?
 - Which parts of waiting/commuting become productive or reachable time?
+- Does 24-hour automated service increase time sovereignty, or normalize expectations of immediate action?
 
 ## Core insight
 
 A society can give people more appliances, higher incomes and faster information while still increasing the amount of **coordination, supervision and attention** required of an ordinary day.
 
+It can also make a service formally universal while leaving it temporally inaccessible to someone whose work, school or care schedule overlaps the only available window.
+
 So the repository should ask not only:
 
 > What did people own?
 
+or:
+
+> What were they eligible for?
+
 but:
 
-> **What did they have time for?**
+> **What did they have time for — and whose clock did they have to obey?**
