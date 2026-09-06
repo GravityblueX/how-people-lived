@@ -53,7 +53,7 @@ transaction fails
 
 来源：
 
-- 2003 年近同时代回顾，B/C：<https://finance.sina.com.cn/roll/20030305/1720318174.shtml>
+- 2003 年近同时代回顾，B/C：<https://finance.sina.cn/sa/2003-03-05/detail-ikknscsi0734856.d.html>
 - 《中国消费者报》2024 年四十年回顾，C / institution retrospective：<https://zxb.ccn.com.cn/html/zxb/20241120/129632.html>
 
 这时最重要的变化并不是“消费者第一次会抱怨”，而是出现了更稳定的 **institutional complaint address / 制度化申诉地址**。以前一笔失败交易可能主要在：
