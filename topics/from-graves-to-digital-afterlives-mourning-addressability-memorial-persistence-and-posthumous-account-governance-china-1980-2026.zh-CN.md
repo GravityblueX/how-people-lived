@@ -123,7 +123,7 @@ mass behavioral integration = false / not demonstrated
 
 来源：
 
-- 江淮晨报 / 新浪，2004-03-30（historical locator）：<https://news.sina.com.cn/s/2004-03-30/07432174212s.shtml>
+- 江淮晨报 / 新浪，2004-03-30（historical locator）：<https://news.sina.com.cn/c/2004-03-30/02152172262s.shtml>
 
 证据：**B，同时代媒体；可以证明 URL 与宣传/操作描述，不等于已经取得历史 HTML transaction。**
 
