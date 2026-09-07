@@ -68,6 +68,23 @@ Key questions:
 
 This topic should be read together with grandparent care and paid domestic service rather than treating formal childcare as a complete substitute for either.
 
+## Distributed parenting and remote care
+
+- [From “parents on the phone” to mediated co-presence: care bandwidth, caregiver relay and the physical-actuator gap](topics/remote-parenting-left-behind-children-care-bandwidth-and-mediated-copresence-china-1995-2026.zh-CN.md) — how telephone, school video rooms, QQ/WeChat, asynchronous voice, location, transfers and shared digital activity let migrant parents keep participating in family life while grandparents, teachers and other nearby adults remained necessary for embodied care
+
+A geographically separated household should not be modeled as either simply “together” or “broken apart.” Ask which parental functions can travel through communication and payment rails, and which still require a person next to the child.
+
+Key questions:
+
+- Who can receive and act on a remote parent's instruction?
+- Does the child have a private device, a grandparent's phone, or only a school/shared terminal?
+- Can parent and child communicate asynchronously when migrant work hours prevent live calls?
+- Does video create useful co-presence, or can seeing an absent parent sometimes sharpen awareness of separation?
+- Can money, online shopping or location sharing solve the problem, or is a nearby caregiver still needed to carry out the physical task?
+- Can a care problem become large enough to reverse a migration decision?
+
+This topic should be read together with communication, remittances, grandparent care, schooling and migration rather than treating “more bandwidth” as a complete substitute for co-residence.
+
 ## Grandparents as infrastructure
 
 - [Grandparent care and later life across Chinese generations](places/china/generations/by-domain/grandparent-care-and-later-life.md)
