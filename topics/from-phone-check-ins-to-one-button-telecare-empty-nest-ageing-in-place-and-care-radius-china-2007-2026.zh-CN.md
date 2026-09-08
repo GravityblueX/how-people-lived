@@ -414,7 +414,7 @@ private home
 
 ## 七、海外比较：共同问题不是 Internet，而是“远方信号怎样变成本地身体”
 
-美国 1974 年电话报警专利和英国后来长期使用的 community alarm / telecare 说明，远程照护的基本结构在 Web 以前已经成形：[S1][S2]
+美国 1974 年电话报警专利和英国后来长期使用的 community alarm / telecare 说明，远程照护的基本结构在 Web 以前已经成形：[S1]、[S2]
 
 ```text
 person at home
